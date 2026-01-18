@@ -1,13 +1,10 @@
-// User function Template for Java
-
 class Solution {
-    public static String reverseString(String s) {
+    static String revStr(String s) {
         // code here
-        String rev="";
-        int l=(s.length())-1;
-        for(int i=l;i>=0;i--){
-            rev=rev+(s.charAt(i));
+        StringBuilder  reverse=new StringBuilder();
+        for(int i=s.length()-1;i>=0;i--){
+            reverse.append(s.charAt(i));
         }
-        return rev;
+        return reverse.toString();
     }
 }
