@@ -1,20 +1,16 @@
-// User function Template for Java
+//Back-end complete function Template for Java
+import java.util.*;
 
-class Solution {
-    static int evenlyDivides(int n) {
-        // code here
-        int temp=n,c=0;
-        while(temp>0){
-            int r=temp%10;
-            if(r==0){
-                temp=temp/10;
-                continue;
-            }
-           else if(n%r==0){
-               c++;
-           }
-            temp=temp/10;
+public class Solution {
+    public static void main(String args[]) {
+        // Your Code Here
+        Scanner scanner =new Scanner(System.in);
+        int n=scanner.nextInt();
+        int count=0;
+        while(n>0){
+            count ++;
+            n=n/10;
         }
-        return c;
+        System.out.println(count);
     }
 }
