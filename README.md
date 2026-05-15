@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptishubha/test-gfg/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deeptishubha/test-gfg/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Deeptishubha/test-gfg/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Deeptishubha/test-gfg/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Deeptishubha/test-gfg/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
