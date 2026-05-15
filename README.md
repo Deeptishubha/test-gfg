@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptishubha/test-gfg/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptishubha/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Deeptishubha/test-gfg/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Deeptishubha/test-gfg/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Deeptishubha/test-gfg/tree/master/1929-concatenation-of-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptishubha/test-gfg/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptishubha/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Deeptishubha/test-gfg/tree/master/0202-happy-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptishubha/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +48,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Deeptishubha/test-gfg/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptishubha/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
