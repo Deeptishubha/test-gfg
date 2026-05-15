@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptishubha/test-gfg/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Deeptishubha/test-gfg/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Deeptishubha/test-gfg/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Deeptishubha/test-gfg/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Deeptishubha/test-gfg/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Deeptishubha/test-gfg/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
